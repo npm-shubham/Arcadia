@@ -3,7 +3,6 @@ import imp
 from re import M
 from tkinter import *
 from PIL import Image, ImageTk
-#from Dragon import dragon as d
 from CatchTheClown import clown as c
 from HungryRabbit import rabbit as r
 from MonsterHunter import MonsterHunter as m
