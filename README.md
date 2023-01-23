@@ -1,5 +1,6 @@
 # Arcadia
 
+RUN Arcade.py
 This project is a combination of some 2D games. It is made solely using python-tkinter module for the main UI and python-pygame module for games.
 The games are:
 * Catch The Clown
@@ -9,6 +10,6 @@ The games are:
 * Skier
 * Snake
 * Space Invader
-RUN Arcade.py
+
 
 @project0
