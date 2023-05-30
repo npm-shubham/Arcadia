@@ -1,6 +1,6 @@
 # Arcadia
 
-Arcadia is a collection of 2D games based on the pygame module. The games include:
+*Arcadia* is a collection of 2D games based on the pygame module. The games include:
 
 *Catch the Clown
 *Hungry Rabbit
