@@ -26,7 +26,8 @@ Once you have installed the required modules, you can run Arcadia by typing the 
 Or directly run arcadia.py
 
 
-#Games
+# Games
+
 The following games are included in Arcadia:
 
 * #Catch the Clown
@@ -50,10 +51,10 @@ In this game, you control a snake. The snake will move around the screen, and yo
 * #Space Invader
 In this game, you must defend your planet from the invaders. The invaders will move towards your planet, and you must use your mouse to shoot them down. If you shoot down all of the invaders, you will win the game. The game ends when all of your planets have been destroyed or when you have run out of lives.
 
-#Controls
+Controls
 The following controls are used in Arcadia:
 
-#Mouse
+Mouse
 The mouse is used to control the games. In some games, you can use the mouse to click on objects. In other games, you can use the mouse to move the object around the screen.
 
 Keyboard
@@ -61,6 +62,8 @@ The keyboard is used to control the games. In some games, you can use the keyboa
 
 Enjoy!
 We hope you enjoy playing Arcadia. If you have any questions or suggestions, please feel free to contact us.
+
+ls
 
 
 @project0
