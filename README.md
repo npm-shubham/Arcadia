@@ -16,12 +16,11 @@ Getting Started
 To get started with Arcadia, you will need to install the pygame and tkinter modules. You can do this using the following commands:
 
 `pip install pygame`
-
 `pip install tkinter`
 
 Once you have installed the required modules, you can run Arcadia by typing the following command in your terminal:
 
-python arcadia.py
+````python arcadia.py````
 
 Games
 The following games are included in Arcadia:
