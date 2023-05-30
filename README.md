@@ -1,21 +1,21 @@
 # Arcadia
 
-*Arcadia* is a collection of 2D games based on the pygame module. The games include:
+**Arcadia** is a collection of 2D games based on the pygame module. The games include:
 
-*Catch the Clown
-*Hungry Rabbit
-*Monster Hunter
-*Puzzle
-*Skier
-*Snake
-*Space Invader
+* Catch the Clown
+* Hungry Rabbit
+* Monster Hunter
+* Puzzle
+* Skier
+* Snake
+* Space Invader
 
 There is also an arcadia.py file which is based on the tkinter module and serves as a homepage for the games. From the homepage, you can select a game to play.
 
 Getting Started
 To get started with Arcadia, you will need to install the pygame and tkinter modules. You can do this using the following commands:
 
-pip install pygame
+command pip install pygame
 pip install tkinter
 
 Once you have installed the required modules, you can run Arcadia by typing the following command in your terminal:
