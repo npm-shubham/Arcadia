@@ -15,9 +15,9 @@ There is also an arcadia.py file which is based on the tkinter module and serves
 Getting Started
 To get started with Arcadia, you will need to install the pygame and tkinter modules. You can do this using the following commands:
 
-```pip install pygame
+```pip install pygame```
 
-pip install tkinter```
+``pip install tkinter``
 
 Once you have installed the required modules, you can run Arcadia by typing the following command in your terminal:
 
